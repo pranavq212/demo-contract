@@ -1,4 +1,4 @@
-<h2><a href="https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+BC0201EN+v2/courseware/a9c2f85f6f9548ccbc2f5cb7f77f5946/ebe7d85ff5304c06b63bbae315db25e1/?child=first">Hands on Lab for IBM Block Chain:</a></h2>
+<h2><a href="https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+BC0201EN+v2/courseware/a9c2f85f6f9548ccbc2f5cb7f77f5946/ebe7d85ff5304c06b63bbae315db25e1/?child=first">Hands on Lab for Hyperledger based IBM Blockchain:</a></h2>
 <br/>
 <div class="vert vert-0" data-id="block-v1:IBMDeveloperSkillsNetwork+BC0201EN+v2+type@html+block@09563020c63d4070af8c20c34ff401ba">
         
