@@ -1,3 +1,5 @@
+<h2><a href="https://courses.cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+BC0201EN+v2/courseware/a9c2f85f6f9548ccbc2f5cb7f77f5946/ebe7d85ff5304c06b63bbae315db25e1/?child=first">Hands on Lab for IBM Block Chain:</a></h2>
+<br/>
 <div class="vert vert-0" data-id="block-v1:IBMDeveloperSkillsNetwork+BC0201EN+v2+type@html+block@09563020c63d4070af8c20c34ff401ba">
         
 <div class="xblock xblock-student_view xblock-student_view-html xmodule_display xmodule_HtmlModule xblock-initialized" data-graded="False" data-has-score="False" data-runtime-class="LmsRuntime" data-init="XBlockToXModuleShim" data-block-type="html" data-request-token="a78e75e068be11eb9bff9a92e5472877" data-runtime-version="1" data-usage-id="block-v1:IBMDeveloperSkillsNetwork+BC0201EN+v2+type@html+block@09563020c63d4070af8c20c34ff401ba" data-type="HTMLModule" data-course-id="course-v1:IBMDeveloperSkillsNetwork+BC0201EN+v2">
