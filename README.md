@@ -13,21 +13,21 @@
 <p>Read the VS Code documentation for&nbsp;specific software requirements and installation instructions.</p>
 <p><img src="/courseware/bullet.png" alt="" width="11" height="11">&nbsp;&nbsp; <code>3:</code>&nbsp;&nbsp;&nbsp; Start VS Code.</p>
 <p><img src="/courseware/bullet.png" alt="" width="11" height="11">&nbsp;&nbsp; <code>4:</code>&nbsp;&nbsp;&nbsp; In the activity bar on the left-side of VS Code, click the Extensions icon to show the Extensions Marketplace.</p>
-<p><img src="/assets/courseware/v1/03fa53834b7723f2401510a2c6fbe3f2/asset-v1:IBMDeveloperSkillsNetwork+BC0201EN+v2+type@asset+block/4.png" alt="Marketplace icon in VS Code" width="402" height="288"></p>
+<p><img src="/courseware/4.png" alt="Marketplace icon in VS Code" width="402" height="288"></p>
 <p><img src="/courseware/bullet.png" alt="" width="11" height="11">&nbsp;&nbsp; <code>5:</code>&nbsp;&nbsp;&nbsp; In the search facility of the marketplace, type IBM Blockchain Platform and click the top link.</p>
-<p><img src="/assets/courseware/v1/7e570d499189c1325fa45418eb9f2153/asset-v1:IBMDeveloperSkillsNetwork+BC0201EN+v2+type@asset+block/5.png" alt="IBM Blockchain Platform in the VS Code Marketplace" width="716" height="260"></p>
+<p><img src="/courseware/5.png" alt="IBM Blockchain Platform in the VS Code Marketplace" width="716" height="260"></p>
 <p><img src="/courseware/bullet.png" alt="" width="11" height="11">&nbsp;&nbsp; <code>6:</code>&nbsp;&nbsp;&nbsp; Click 'Install' to install the IBM Blockchain Platform extension.</p>
 <p>This might take a few minutes to complete, and you might need to restart VS Code as part of this process.</p>
 <p>The IBM Blockchain Platform VS Code extension has a number of prerequisite components, which are shown when you start the extension for the first time. When everything is available, the Prerequisites screen will show a "Let's Blockchain" button.</p>
 <p>The tutorials make use of the pre-configured local Hyperledger Fabric instance, so ensure that "Enable Local Fabric" is checked.</p>
 <p><img src="/courseware/bullet.png" alt="" width="11" height="11">&nbsp;&nbsp; <code>7:</code>&nbsp;&nbsp;&nbsp; Install any prerequisite software and click "Let's Blockchain" when ready.</p>
-<p><img src="/assets/courseware/v1/952630483e287b08a59553d580a0cad0/asset-v1:IBMDeveloperSkillsNetwork+BC0201EN+v2+type@asset+block/7.png" alt="IBM Blockchain Platform Tutorials prerequisites" width="715" height="298"></p>
+<p><img src="/courseware/7.png" alt="IBM Blockchain Platform Tutorials prerequisites" width="715" height="298"></p>
 <p>You might need to wait up to a few minutes while the extension is first initialized. When it is ready, the IBM Blockchain Platform homepage will be displayed.</p>
 <p><img src="/courseware/bullet.png" alt="" width="11" height="11">&nbsp;&nbsp; <code>8:</code>&nbsp;&nbsp;&nbsp; Click "Tutorials".</p>
-<p><img src="/assets/courseware/v1/141388a2bae9c0a7fd15036affedc086/asset-v1:IBMDeveloperSkillsNetwork+BC0201EN+v2+type@asset+block/8.png" alt="Extension home page showing Tutorials link" width="713" height="305"></p>
+<p><img src="courseware/8.png" alt="Extension home page showing Tutorials link" width="713" height="305"></p>
 <p>The hands-on section of this course is contained within a set of ten introductory tutorials.</p>
 <p><img src="/courseware/bullet.png" alt="" width="11" height="11">&nbsp;&nbsp; 9<code>:</code>&nbsp;&nbsp;&nbsp; <strong>Complete Basic tutorials A1 through A10.</strong></p>
-<p><img src="/assets/courseware/v1/4b3b1e445b086ed0d02f56e0a5891615/asset-v1:IBMDeveloperSkillsNetwork+BC0201EN+v2+type@asset+block/9.png" alt="Basic tutorials set with first tutorial link highlighted" width="717" height="628"></p>
+<p><img src="/courseware/9.png" alt="Basic tutorials set with first tutorial link highlighted" width="717" height="628"></p>
 <p></p>
 <p>The tutorials will take approximately three hours to complete.</p>
 <p>When you have completed up to the section of tutorial A10 which invites you to claim your IBM Blockchain Foundation Developer badge, please return here and continue to the next section in order to demonstrate your understanding with the final assessment.</p>
